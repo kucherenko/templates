@@ -1,0 +1,19 @@
+{
+  "name": "React",
+  "description": "Project starter with react, vite, css, storybook",
+  "technologies": ["react", "vite", "css", "storybook", "javascript", "jsx"],
+  "components": {
+    "atom": {
+      "path": "./src/components/atoms/button"
+    },
+    "molecule": {
+      "path": "./src/components/molecules/header"
+    },
+    "organism": {
+      "path": "./src/components/organisms/basic"
+    },
+    "page": {
+      "path": "./src/components/pages/landing"
+    }
+  }
+}
